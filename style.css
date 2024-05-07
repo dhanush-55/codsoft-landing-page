@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color:skyblue;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color:blue;
+    font-family:Arial,sans-serif;
+  }
+  
+  .feature {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  #menu{
+  color:red;
+  background-color:yellow
+  }
+  #services
+  {
+  color:blue;
+  background-color:pink
+  }
+  #pricing
+  {
+  color:indigo;
+  background-color:orange
+  }
+  img
+  {
+  
+  width:65vw;
+  height:50vw;
+  margin: 0;
+    padding: 20px
+  
+  
+  }
+  section
+  {
+  padding:40px;
+   border: 1px solid #ccc;
+  flex: 1;
+  
+  
+  
+  
+  }
+  
